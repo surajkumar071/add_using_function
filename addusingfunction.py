@@ -1,4 +1,4 @@
-list = ['Sanjeev',10, 20, 30, 40, 50, "Suraj", True, 50].     BB 
+list = ['Sanjeev',10, 20, 30, 40, 50, "Suraj", True, 50].     B
 
 def add(list):
     result = 0
