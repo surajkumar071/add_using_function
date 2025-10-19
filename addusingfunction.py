@@ -1,4 +1,4 @@
-list = ['Sanjeev',10, 20, 30, 40, 50, "Suraj", True, 50].     BB gtb g 
+list = ['Sanjeev',10, 20, 30, 40, 50, "Suraj", True, 50].     BB gtb 
 
 def add(list):
     result = 0
