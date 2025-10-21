@@ -1,5 +1,5 @@
 
-fuhvjbcf.  nn.  cc.   j.   t.  JB. CV. n. 
+fuhvjbcf.  nn.  cc.   j.   t.  JB. CV.
 
 list = ['Sanjeev',10, 20, 30, 40, 50, "Suraj", True, 50]
 
