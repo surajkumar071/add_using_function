@@ -1,5 +1,5 @@
 
-bb.  mm. fr. dd. k
+bb.  mm. fr. d
 
 
 
