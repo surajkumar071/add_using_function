@@ -1,5 +1,5 @@
 
-bb.  mm. fr. dd. kn. n.  f.
+bb.  mm. fr. dd. kn. n.
 
 
 
