@@ -1,6 +1,6 @@
 
 
-v n. b. cv. k. bh. df ki ob gv g. n. k. v. n 
+v n. b. cv. k. bh. df ki ob gv g. n. k. v
 
 
 
