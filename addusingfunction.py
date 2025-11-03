@@ -1,7 +1,6 @@
 
 
-v n. b. cv. 
-
+v n. 
 
 
 list = ['Sanjeev',10, 20, 30, 40, 50, "Suraj", True, 50]
