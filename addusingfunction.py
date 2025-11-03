@@ -1,4 +1,13 @@
 
+
+v n. b. cv. k. bh. df ki ob gv g. n. k. v. n 
+
+
+
+
+
+
+
 list = ['Sanjeev',10, 20, 30, 40, 50, "Suraj", True, 50]
 
 def add(list):
