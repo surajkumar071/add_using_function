@@ -1,7 +1,7 @@
 
 
 
-c nn. j. gg ni. BK. by. VV. j. BB. JB bj. 
+c nn. j. gg ni. BK. by. VV. j. BB. JB 
 
 
 
