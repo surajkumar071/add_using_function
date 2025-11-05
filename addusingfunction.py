@@ -1,7 +1,7 @@
 
 
 
-c nn. j. gg ni. BK. 
+c nn. j. gg ni. 
 
 
 
