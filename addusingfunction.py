@@ -1,7 +1,7 @@
 
 
 
-c nn. j. gg 
+c nn. j.
 
 
 
