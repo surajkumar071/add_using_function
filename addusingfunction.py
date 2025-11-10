@@ -1,4 +1,14 @@
 
+
+
+cb nj by. kn gg NJN jjbbhjb hbb kk. j 
+
+
+
+
+
+
+
 list = ['Sanjeev',10, 20, 30, 40, 50, "Suraj", True, 50]
 
 def add(list):
