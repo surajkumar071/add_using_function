@@ -1,9 +1,7 @@
 
 
 
-cb nj by. kn gg NJ
-
-
+cb nj by. kn g
 
 
 
