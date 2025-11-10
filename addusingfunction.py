@@ -1,9 +1,7 @@
 
 
 
-cb nj by. kn gg NJN jjbbhjb h
-
-
+cb nj by. kn gg NJN jjbbhj
 
 
 
