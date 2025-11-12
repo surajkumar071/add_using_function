@@ -1,7 +1,7 @@
 
 
 
-gn nn. g. nn bh. nin.  b.  bhj bvg
+gn nn. g. nn bh. nin.  b.  b
 
 
 
