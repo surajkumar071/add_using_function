@@ -1,7 +1,7 @@
 
 
 
-gn nn. g. nn 
+gn nn. g.
 
 
 
