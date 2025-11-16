@@ -1,7 +1,7 @@
 
 
 
-dv u k bh nn t ji g f nj gybjbbubb b b. b 
+dv u k bh nn t ji g f nj gybjbbubb b b
 
 
 
