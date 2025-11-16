@@ -1,8 +1,7 @@
 
 
 
-dv u k bh nn t 
-
+dv u k bh 
 
 
 
