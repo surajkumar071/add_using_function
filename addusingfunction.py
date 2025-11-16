@@ -1,8 +1,7 @@
 
 
 
-dv u k bh nn t ji g f nj gy
-
+dv u k bh nn t ji g f
 
 
 
