@@ -1,7 +1,7 @@
 
 
 
-f bj vchbnb h v n. h. n BG. j. h 
+f bj vchbnb h v n. h. n BG.
 
 
 
