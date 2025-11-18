@@ -1,8 +1,7 @@
 
 
 
-f bj vchbnb h v
-
+f bj vchbn
 
 
 
