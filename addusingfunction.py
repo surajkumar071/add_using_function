@@ -1,7 +1,7 @@
 
 
 
-SS card and aadhar par yah bhi 
+SS card and aadhar par 
 
 
 
