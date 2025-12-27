@@ -1,8 +1,7 @@
 
 
 
-SS card and aadhar par yah bhi kaha ki 
-
+SS card and aadhar par yah bhi 
 
 
 
