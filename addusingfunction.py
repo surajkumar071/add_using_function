@@ -1,8 +1,7 @@
 
 
 
-SS card and aadhar par yah bhi kaha ki vah apane aap men ek 
-
+SS card and aadhar par yah bhi kaha ki vah apane aap 
 
 
 
