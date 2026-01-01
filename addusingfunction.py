@@ -1,6 +1,6 @@
 
 
-sfgd6 to the same pers
+sfgd6 to the sa
 
 
 
