@@ -1,6 +1,6 @@
 
 
-sfgd6 to the same person who 
+sfgd6 to the same pers
 
 
 
