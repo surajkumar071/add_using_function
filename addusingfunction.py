@@ -1,6 +1,6 @@
 
 
-CGHS to the same person 
+CGHS to the same
 
 
 
