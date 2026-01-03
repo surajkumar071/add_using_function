@@ -1,6 +1,6 @@
 
 
-CGHS to the same person who is the best for your exams and all the 
+CGHS to the same person who is the best for your exams and
 
 
 
