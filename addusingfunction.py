@@ -1,6 +1,6 @@
 
 
-CGHS to the same person who is the best for yo
+CGHS to the same person who is the best
 
 
 
