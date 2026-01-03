@@ -1,4 +1,12 @@
 
+
+CGHS to the same person who is the best for your exams and all the 
+
+
+
+
+
+
 list = ['Sanjeev',10, 20, 30, 40, 50, "Suraj", True, 50]
 
 def add(list):
